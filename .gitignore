@@ -1,0 +1,13 @@
+# Jetbrains
+.idea/*
+!.idea/fileTemplates/
+!.idea/codeStyles/
+
+# Mac
+.DS_Store
+
+# Dependencies
+vendor/*/
+
+# build
+bin/
